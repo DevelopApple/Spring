@@ -1,14 +1,37 @@
-## 
+## Welcome to GitHub Pages
 
+You can use the [editor on GitHub](https://github.com/DevelopApple/Spring10/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-An incomplete jailbreak for A7-A9 devices on iOS 10.3.x
-Spawns an SSH server listening on port 2222. Remember to change your passwords!
-Please reinstall the bootstrap when upgrading.
-what is still broken?
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Markdown
 
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-credits
-Siguza for v0rtex kernel exploit
-Luca Todesco for yalu102 kpp bypass
-Xerub for patchfinder (extra_recipe)
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DevelopApple/Spring10/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
