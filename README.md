@@ -7,6 +7,7 @@ Please reinstall the bootstrap when upgrading.
 what is still broken?
 
 
+
 credits
 Siguza for v0rtex kernel exploit
 Luca Todesco for yalu102 kpp bypass
