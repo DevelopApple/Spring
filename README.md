@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Spring
 
 You can use the [editor on GitHub](https://github.com/DevelopApple/Spring10/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
