@@ -1,36 +1,59 @@
+Spring10 jailbreak for iOS 10.3.x
 
-You can use the [editor on GitHub](https://github.com/DevelopApple/Spring10/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+For 64-bit devices prior to the iPhone 7 (A7 - A9)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Made from off the shelf parts and shared research the jailbreak community!
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## notes
 
-**Bold** and _Italic_ and `Code` text
+SSH server on port 2222. Remember to change your passwords!
 
-[Link](url) and ![Image](src)
-```
+| user   | password |
+| ---    | ---      |
+| root   | alpine   |
+| mobile | alpine   |
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## supported devices (working?)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DevelopApple/Spring10/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+| iOS     | iPod 6G | iPhone 5S | 6   | 6+  | SE  | 6S  | 6S+ |
+| ---     | ---     | ---       | --- | --- | --- | --- | --- |
+| 10.3    |         |           | y   |     | y   |     |     |
+| 10.3.1  | y       | y         | y   | y   | y   | y   | y   |
+| 10.3.2  |         | y         | y   | y   |     | y   | y   |
+| 10.3.3  |         | y         | y   | y   | y   | y   | y   |
 
-### Support or Contact
+##  
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| iOS     | iPad Air | Air 2 | 5G (2017) | Pro 9.7" | Pro 12.9" | Mini 2 | Mini 3 | Mini 4 |
+| ---     | ---      | ---   | ---       | ---      | ---       | ---    | ---    | ---    |
+| 10.3    |          |       | y         |          |           |        |        |        |
+| 10.3.1  |          |       |           |          |           | y      | y      |        |
+| 10.3.2  |          |       |           |          |           |        |        |        |
+| 10.3.3  |          | y     |           |          |           |        |        |        |
+
+## Thank to:
+
+siguza (v0rtex) for kernel exploit
+
+qwertyoruiop (yalu102) for kpp bypass 
+
+xerub for patchfinder
+
+Sticktron (g0blin)
+
+##
+
+&nbsp;
+
+
+&nbsp;
+
+
+
+<p align="center"> </p>
