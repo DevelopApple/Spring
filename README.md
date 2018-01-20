@@ -1,10 +1,14 @@
+## Spring10
+
 Spring10 jailbreak for iOS 10.3.x
 
 For 64-bit devices prior to the iPhone 7 (A7 - A9)
 
 Made from off the shelf parts and shared research the jailbreak community!
 
+Spring10 utilizes Luca Todesco’s yalu102 KPP bypass and Siguza’s v0rtex exploit. 
 
+This tool is a work in progress but you can use Cydia now “jailbreakd” daemon to this tool.
 
 
 
