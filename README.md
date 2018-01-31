@@ -10,7 +10,14 @@ Spring10 utilizes Luca Todesco’s yalu102 KPP bypass and Siguza’s v0rtex expl
 
 This tool is a work in progress but you can use Cydia now “jailbreakd” daemon to this tool.
 
+## Possible Touch ID fix:
 
+If Touch ID doesn’t work after Jailbreak with Spring10 try this 
+
+1. Reboot your Device
+2. Turn off TouchID in Settings
+3. Jailbreak your Device
+4. Turn on TouchID in Settings.
 
 
 ## notes
