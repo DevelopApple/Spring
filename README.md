@@ -20,16 +20,6 @@ If Touch ID doesn’t work after Jailbreak with Spring10 try this
 4. Turn on TouchID in Settings.
 
 
-## notes
-
-
-SSH server on port 2222. Remember to change your passwords!
-
-| user   | password |
-| ---    | ---      |
-| root   | alpine   |
-| mobile | alpine   |
-
 
 ## Spring10 v2.1 Supported Devices  
 
