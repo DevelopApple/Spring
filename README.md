@@ -44,12 +44,12 @@ SSH server on port 2222. Remember to change your passwords!
 
 
 
-| iOS     |iPadAir|    Air 2 | 5G (2017| Pro 9.7 |Pro 12.9 |Mini 2                 |   Mini 3      |  Mini 4 |build number|
-| ---     |-------|----------|---------|---------|---------|-----------------------|---------------|---------|------------|
-| 10.3    |       |          |iPad6,12 |         |         |iPad4,6 iPad4,5 iPad4,4|iPad4,8 iPad4,7|         | 14E277     |
-| 10.3.1  |       |          |iPad6,12 |         |         |iPad4,6 iPad4,5 iPad4,4|iPad4,8 iPad4,7|         | 14E304     |
-| 10.3.2  |       |          |iPad6,12 |         |         |iPad4,6 iPad4,5 iPad4,4|iPad4,8 iPad4,7|         | 14F89      |
-| 10.3.3  |       |          |iPad6,12 |         |         |iPad4,6 iPad4,5 iPad4,4|iPad4,8 iPad4,7|         | 14G60      |
+| iOS  |iPadAir    |    Air 2 | 5G (2017| Pro 9.7 |Pro 12.9       |Mini 2                 |   Mini 3      |  Mini 4 |build|
+| ---  |-------    |----------|---------|---------|---------------|-----------------------|---------------|---------|-----|
+|10.3  |iPad4,1/2/3|iPad5,3/4 |iPad6,12|iPad6,3/4|iPad6,7 iPad6,8|iPad4,6 iPad4,5 iPad4,4|iPad4,8 iPad4,7|iPad5,1/2|14E277|
+|10.3.1|iPad4,1/2/3|iPad5,3/4 |iPad6,12|iPad6,3/4|iPad6,7 iPad6,8|iPad4,6 iPad4,5 iPad4,4|iPad4,8 iPad4,7|iPad5,1/2|14E304|
+|10.3.2|iPad4,1/2/3|iPad5,3/4 |iPad6,12|iPad6,3/4|iPad6,7 iPad6,8|iPad4,6 iPad4,5 iPad4,4|iPad4,8 iPad4,7|iPad5,1/2|14F89|
+|10.3.3|iPad4,1/2/3|iPad5,3/4 |iPad6,12|iPad6,3/4|iPad6,7 iPad6,8|iPad4,6 iPad4,5 iPad4,4|iPad4,8 iPad4,7|iPad5,1/2|14G60|
 
 
 
