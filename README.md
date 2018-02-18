@@ -33,21 +33,25 @@ SSH server on port 2222. Remember to change your passwords!
 
 ## Spring10 v2.0 Supported Devices  
 
-| iOS     | iPod 6G | iPhone 5S         | 6           | 6+  | SE          | 6S          | 6S+ | build number |
-| ---     | ---     | ---               | ----------- | --- | ---         | ---         | --- | ------------ |
-| 10.3    |         |                   | iPhone7,2   |     | iPhone8,4   |             |     | 14E277       |
-| 10.3.1  | iPod7,1       | iPhone6,2 iPhone6,1| iPhone7,2  | iPhone7,1 |iPhone8,4 | iPhone8,1   | iPhone8,2   | 14E304 |
-| 10.3.2  |         | iPhone6,2         | iPhone7,2   | iPhone7,1 |          | iPhone8,1   | iPhone8,2   | 14F89        |
-| 10.3.3  |         | iPhone6,2         | iPhone7,2   | iPhone7,1   | iPhone8,4   | iPhone8,1   | iPhone8,2   | 14G60        |
+| iOS     |iPod 6G|      iPhone 5S    |   6     |  6+     |  SE     |  6S     | 6S+     |build number|
+| ---     |-------|-------------------|---------|---------|---------|---------|---------|------------|
+| 10.3    |iPod7,1|iPhone6,1 iPhone6,2|iPhone7,2|iPhone7,1|iPhone8,4|iPhone8,1|iPhone8,2| 14E277     |
+| 10.3.1  |iPod7,1|iPhone6,1 iPhone6,2|iPhone7,2|iPhone7,1|iPhone8,4|iPhone8,1|iPhone8,2| 14E304     |
+| 10.3.2  |iPod7,1|iPhone6,1 iPhone6,2|iPhone7,2|iPhone7,1|iPhone8,4|iPhone8,2|iPhone8,2| 14F89      |
+| 10.3.3  |       |iPhone6,1 iPhone6,2|iPhone7,2|iPhone7,1|iPhone8,4|iPhone8,1|iPhone8,2| 14G60      |
 
 ##  
 
-| iOS     | iPad Air | Air 2             | 5G (2017) | Pro 9.7" | Pro 12.9" | Mini 2 | Mini 3 | Mini 4 |build number |
-| ---     | ---      | ---               | ---       | ---      | ---       | ---    | ---    | ---    |------------ |
-| 10.3    |          |                   | iPad6,12 iPad6,11        |          |           |        |        |        |14E277       |
-| 10.3.1  |          |                   |           |          |           | iPad4,6 iPad4,5 iPad4,4 | iPad4,8 iPad4,7      |        | 14E304 |
-| 10.3.2  |          |                   |           |          |           |        |        |        |14F89        |
-| 10.3.3  |          | iPad5,4 iPad5,3 |           |          |           |        |        |        |14G60   |
+
+
+| iOS     |iPadAir|    Air 2 | 5G (2017| Pro 9.7 |Pro 12.9 |Mini 2                 |   Mini 3      |  Mini 4 |build number|
+| ---     |-------|----------|---------|---------|---------|-----------------------|---------------|---------|------------|
+| 10.3    |       |          |iPad6,12 |         |         |iPad4,6 iPad4,5 iPad4,4|iPad4,8 iPad4,7|         | 14E277     |
+| 10.3.1  |       |          |iPad6,12 |         |         |iPad4,6 iPad4,5 iPad4,4|iPad4,8 iPad4,7|         | 14E304     |
+| 10.3.2  |       |          |iPad6,12 |         |         |iPad4,6 iPad4,5 iPad4,4|iPad4,8 iPad4,7|         | 14F89      |
+| 10.3.3  |       |          |iPad6,12 |         |         |iPad4,6 iPad4,5 iPad4,4|iPad4,8 iPad4,7|         | 14G60      |
+
+
 
 ## Thank to:
 
