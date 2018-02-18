@@ -31,7 +31,7 @@ SSH server on port 2222. Remember to change your passwords!
 | mobile | alpine   |
 
 
-## Spring10 v2.0 Supported Devices  
+## Spring10 v2.1 Supported Devices  
 
 | iOS     |iPod 6G|      iPhone 5S    |   6     |  6+     |  SE     |  6S     | 6S+     |build number|
 | ---     |-------|-------------------|---------|---------|---------|---------|---------|------------|
